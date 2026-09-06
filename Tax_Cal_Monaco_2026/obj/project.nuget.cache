@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mi/FywzAuX8=",
+  "success": true,
+  "projectFilePath": "/Users/jameshunt/Documents/Tax_Calculator/Tax_Cal_Monaco_2026/Tax_Cal_Monaco.csproj",
+  "expectedPackageFiles": [
+    "/Users/jameshunt/.nuget/packages/microsoft.netcore.app.ref/8.0.30/microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "/Users/jameshunt/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "/Users/jameshunt/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.30/microsoft.netcore.app.host.osx-arm64.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
